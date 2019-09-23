@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 22, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Decided on a goal & looked up similar projects to provide inspiration.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I AM INTIMIDATED. But these are just meant to serve as inspiration and references when I get stuck in the code. I think I'll be able to make at least a simple visualizer in 100 days, and I can iterate on that if there's time left.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**:
+1. [Vissonance collection](https://tariqksoliman.github.io/Vissonance/)
+2. [3D Particles Music Visualizer](https://chardos.github.io/music_viz/)
+3. [Webcam Audio Visualizer](https://tympanus.net/codrops/2019/09/06/how-to-create-a-webcam-audio-visualizer-with-three-js/)
+4. [Obsidian javascript/webgl demo](https://mrdoob.com/files/temp/xplsv_obsidian/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 23, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked the 100-days-of-code repository & explored its contents. Re-familiarized myself with the Github workflow. Examined the source code of the webcam audio visualizer & compared with my broken code from Codevember 2018.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: I want to make a webcam audio visualizer of some kind, but I also want to differentiate it from the demo. Perhaps I can change the shapes or maybe add effects to the video itself (ghost image, etc). I wonder if I can build a link-to-video feature where the user can make a visualizer out of any video on YouTube. 
