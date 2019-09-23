@@ -19,4 +19,5 @@
 **Thoughts**: I want to make a webcam audio visualizer of some kind, but I also want to differentiate it from the demo. Perhaps I can change the shapes or maybe add effects to the video itself (ghost image, etc). I wonder if I can build a link-to-video feature where the user can make a visualizer out of any video on YouTube. 
 
 **Link(s) to work**:
-1. [Failed attempt at an audio visualizer for Codevember 2018](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
+1. [Demo of the broken audio visualizer for Codevember 2018](https://twitter.com/saraleewrites/status/1073707656240541696)
+2. [Code for the broken audio visualizer](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
