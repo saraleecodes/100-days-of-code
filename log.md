@@ -12,6 +12,7 @@
 3. [Webcam Audio Visualizer](https://tympanus.net/codrops/2019/09/06/how-to-create-a-webcam-audio-visualizer-with-three-js/)
 4. [Obsidian javascript/webgl demo](https://mrdoob.com/files/temp/xplsv_obsidian/)
 
+
 ### Day 1: September 23, 2019
 
 **Today's Progress**: Forked the 100-days-of-code repository & explored its contents. Re-familiarized myself with the Github workflow. Examined the source code of the webcam audio visualizer & compared with my broken code from Codevember 2018.
