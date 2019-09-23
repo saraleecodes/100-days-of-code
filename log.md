@@ -20,4 +20,4 @@
 
 **Link(s) to work**:
 1. [Demo of the broken audio visualizer for Codevember 2018](https://twitter.com/saraleewrites/status/1073707656240541696)
-2. [Code for the broken audio visualizer](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
+2. [Source code for the broken audio visualizer](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
