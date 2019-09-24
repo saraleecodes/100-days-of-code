@@ -31,4 +31,4 @@
 **Link(s) to work**:
 1. [How to Use an Android Phone As a Webcam for PC](http://www.skipser.com/p/2/p/android-as-webcam.html)
 2. [Webcam Audio Visualizer repository by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
-3. [Demo of my tweaks]()
+3. [Demo of today's progress](https://twitter.com/saraleewrites/status/1176638218554331136)
