@@ -21,3 +21,14 @@
 **Link(s) to work**:
 1. [Demo of the broken audio visualizer for Codevember 2018](https://twitter.com/saraleewrites/status/1073707656240541696)
 2. [Source code for the broken audio visualizer](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
+
+### Day 2: September 24, 2019
+
+**Today's Progress**: Installed a webcam on my desktop. Cloned the webcam-audio-visualizer repository into a local directory & installed all dependencies. Tweaked individual settings in index2.js to familiarize myself with the code & see what I could change about the output without adding new functions.
+
+**Thoughts**: Realized that I didn't have a desktop webcam, so I installed DroidCam to connect my phone as a webcam. It worked really well! I also changed the song out with something simpler that I've been working on recently. 
+
+**Link(s) to work**:
+1. [How to Use an Android Phone As a Webcam for PC](http://www.skipser.com/p/2/p/android-as-webcam.html)
+2. [Webcam Audio Visualizer repository by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
+3. [Demo of my tweaks]()
