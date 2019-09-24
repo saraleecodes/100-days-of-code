@@ -14,10 +14,21 @@
 
 ### Day 1: September 23, 2019
 
-**Today's Progress**: Forked the 100-days-of-code repository & explored its contents. Re-familiarized myself with the Github workflow. Examined the source code of the webcam audio visualizer & compared with my broken code from Codevember 2018.
+**Today's Progress**: Forked the 100-days-of-code repository & explored its contents. Re-familiarized myself with the Github workflow. Examined the source code of the webcam audio visualizer & compared with my broken code from Codevember 2018. Created a progress log.
 
 **Thoughts**: I want to make a webcam audio visualizer of some kind, but I also want to differentiate it from the demo. Perhaps I can change the shapes or maybe add effects to the video itself (ghost image, etc). I wonder if I can build a link-to-video feature where the user can make a visualizer out of any video on YouTube. 
 
 **Link(s) to work**:
 1. [Demo of the broken audio visualizer for Codevember 2018](https://twitter.com/saraleewrites/status/1073707656240541696)
-2. [Code for the broken audio visualizer](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
+2. [Source code for the broken audio visualizer](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.05.js)
+
+### Day 2: September 24, 2019
+
+**Today's Progress**: Installed a webcam on my desktop. Cloned the webcam-audio-visualizer repository into a local directory & installed all dependencies. Tweaked individual settings in index2.js to familiarize myself with the code & see what I could change about the output without adding new functions. Changed the colors to represent the non-binary pride flag and changed the music to the newest "song" I've been working on.
+
+**Thoughts**: Realized that I didn't have a desktop webcam, so I installed DroidCam to connect my phone as a webcam. It worked really well! The possibilities of merging this visualizer with my own music and dance performance is really, really exciting!!! I LOVE AUDIO VISUALIZERS!!!
+
+**Link(s) to work**:
+1. [How to Use an Android Phone As a Webcam for PC](http://www.skipser.com/p/2/p/android-as-webcam.html)
+2. [Webcam Audio Visualizer repository by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
+3. [Demo of today's progress](https://twitter.com/saraleewrites/status/1176638218554331136)
