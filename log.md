@@ -24,7 +24,7 @@
 
 ### Day 2: September 24, 2019
 
-**Today's Progress**: Installed a webcam on my desktop. Cloned the webcam-audio-visualizer repository into a local directory & installed all dependencies. Tweaked individual settings in index2.js to familiarize myself with the code & see what I could change about the output without adding new functions. Changed the colors to represent the non-binary pride flag and changed the music to the newest "song" I've been working on.
+**Today's Progress**: Installed a webcam on my desktop. Cloned the webcam-audio-visualizer repository into a local directory & installed all dependencies. Tweaked individual settings in index2.js to familiarize myself with the code & see what I could change about the output without adding new functions. Changed the colors to represent the non-binary pride flag and changed the music to the newest song draft I've been working on.
 
 **Thoughts**: Realized that I didn't have a desktop webcam, so I installed DroidCam to connect my phone as a webcam. It worked really well! The possibilities of merging this visualizer with my own music and dance performance is really, really exciting!!! I LOVE AUDIO VISUALIZERS!!!
 
