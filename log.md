@@ -37,7 +37,7 @@
 
 **Today's Progress**: Forked & cloned the webmidi-threejs repository. Spent most of the hour trying to figure out how to interface it with the Webcam Audio Visualizer, but was not successful. Increased the view distance on the visualizer so more of the particles could be seen.
 
-**Thoughts**: Zoey suggested the exciting idea of allowing midi input with the Webcam Audio Visualizer, but it may be more complex of a problem than I can solve at the moment. I'm going to put that idea on the backburner for now. Tomorrow, I'll focus on changing the visuals from a particle to something more smooth (or a different geometry).
+**Thoughts**: My partner suggested the exciting idea of allowing midi input with the Webcam Audio Visualizer, but it may be more complex of a problem than I can solve at the moment. I'm going to put that idea on the backburner for now. Tomorrow, I'll focus on changing the visuals from a particle to something more smooth (or a different geometry).
 
 **Link(s) to work**:
 1. [Webcam Audio Visualizer by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
