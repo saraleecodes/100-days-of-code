@@ -32,3 +32,13 @@
 1. [How to Use an Android Phone As a Webcam for PC](http://www.skipser.com/p/2/p/android-as-webcam.html)
 2. [Webcam Audio Visualizer repository by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
 3. [Demo of today's progress](https://twitter.com/saraleewrites/status/1176638218554331136)
+
+### Day 3: September 25, 2019
+
+**Today's Progress**: Forked & cloned the webmidi-threejs repository. Spent most of the hour trying to figure out how to interface it with the Webcam Audio Visualizer, but was not successful. Increased the view distance on the visualizer so more of the particles could be seen.
+
+**Thoughts**: Zoey suggested the exciting idea of allowing midi input with the Webcam Audio Visualizer, but it may be more complex of a problem than I can solve at the moment. I'm going to put that idea on the backburner for now. Tomorrow, I'll focus on changing the visuals from a particle to something more smooth (or a different geometry).
+
+**Link(s) to work**:
+1. [Webcam Audio Visualizer by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
+2. [Webmidi-ready Three.js library for VJing with midi controllers by violetforest](https://github.com/violetforest/webmidi-threejs)
