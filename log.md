@@ -42,3 +42,12 @@
 **Link(s) to work**:
 1. [Webcam Audio Visualizer by r21nomi](https://github.com/r21nomi/webcam-audio-visualizer)
 2. [Webmidi-ready Three.js library for VJing with midi controllers by violetforest](https://github.com/violetforest/webmidi-threejs)
+
+### Day 4: September 26, 2019
+
+**Today's Progress**: Unsuccessful attempt to change the particle effect to a wireframe effect. Looked up other shader materials in the Three.js documentation.
+
+**Thoughts**: A family emergency delayed this update by a few hours. My head's just not in it today. I think I need to build a wireframe (or other geometry) audio visualizer first, then go through the tutorial to implement webcam input. Working with the existing code has been informative, but I think I'm trying to skip too many steps without learning the foundations.  
+
+**Link(s) to work**:
+1. [ShaderMaterial Examples](https://threejs.org/docs/#api/en/materials/ShaderMaterial)
