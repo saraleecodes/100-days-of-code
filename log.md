@@ -45,7 +45,7 @@
 
 ### Day 4: September 26, 2019
 
-**Today's Progress**: Unsuccessful attempt to change the particle effect to a wireframe effect. Looked up other shader materials in the Three.js documentation.
+**Today's Progress**: Unsuccessful attempt to change the particle effect to a wireframe effect. Looked up other shader materials in the Three.js documentation. Changed the colors on Demo 1 to imitate a fire effect.
 
 **Thoughts**: A family emergency delayed this update by a few hours. My head's just not in it today. I think I need to build a wireframe (or other geometry) audio visualizer first, then go through the tutorial to implement webcam input. Working with the existing code has been informative, but I think I'm trying to skip too many steps without learning the foundations.  
 
