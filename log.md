@@ -52,7 +52,7 @@
 **Link(s) to work**:
 1. [ShaderMaterial Examples](https://threejs.org/docs/#api/en/materials/ShaderMaterial)
 
-### Days 5-7: September 27-29, 2019
+### Days 5-8: September 27-30, 2019
 
 **Today's Progress**: 
 
