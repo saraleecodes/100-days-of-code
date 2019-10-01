@@ -54,9 +54,11 @@
 
 ### Days 5-8: September 27-30, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Catching up! Used canvas-sketch to build on a generative artwork from last Codevember. Modified the mesh material to create a wireframe. Attempted to create a lava effect for one of the materials using vertex and fragment shaders, but was unsuccessful. Added a song and audio analyser, removing all bugs using the Chrome DevTools Console.
 
-**Thoughts**: 
+**Thoughts**: Between a family emergency and a sudden move into a temporary space, this weekend was very trying (thank you so much to my dear friends who carried me through). I was able to dedicate a 4-hour chunk of time to this project today, so I'm back on track! It's not a visualizer yet, but it will be!
 
 **Link(s) to work**:
-1. https://github.com/mrdoob/three.js/blob/master/examples/webaudio_visualizer.html
+1. 
+2. [WebAudio Visualizer by mrdoob](https://github.com/mrdoob/three.js/blob/master/examples/webaudio_visualizer.html)
+3.
