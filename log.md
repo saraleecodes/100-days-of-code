@@ -54,11 +54,12 @@
 
 ### Days 5-8: September 27-30, 2019
 
-**Today's Progress**: Catching up! Used canvas-sketch to build on a generative artwork from last Codevember. Modified the mesh material to create a wireframe. Attempted to create a lava effect for one of the materials using vertex and fragment shaders, but was unsuccessful. Added a song and audio analyser, removing all bugs using the Chrome DevTools Console.
+**Today's Progress**: Catching up! Used canvas-sketch to work from a generative artwork I created last Codevember. Modified the mesh material to create a wireframe. Attempted to create a lava effect for one of the materials using vertex and fragment shaders, but was unsuccessful. Added a song and audio analyser, removing all bugs using the Chrome DevTools Console.
 
-**Thoughts**: Between a family emergency and a sudden move into a temporary space, this weekend was very trying (thank you so much to my dear friends who carried me through). I was able to dedicate a 4-hour chunk of time to this project today, so I'm back on track! It's not a visualizer yet, but it will be!
-
+**Thoughts**: Between a family emergency and a sudden move into a temporary space, this weekend was very trying (thank you so much to my dear friends who carried me through). I was able to dedicate a 3-hour chunk of coding to this project today, so I'm nearly back on track. It's not a visualizer yet, but it will be! I need to either figure out how to render the Three.js example shaders in canvas-sketch or just build a package similar to the webcam audio visualizer so I can use the source code provided on threejs.org. I was able to add a full-screen shader material using the canvas-sketch-util/shader library, but it's not quite the effect I was going for. 
+  
 **Link(s) to work**:
-1. 
+1. [New visualizer in progress](https://github.com/saraleecodes/100-days-of-code/blob/master/src/2018.12.01.js)
 2. [WebAudio Visualizer by mrdoob](https://github.com/mrdoob/three.js/blob/master/examples/webaudio_visualizer.html)
-3.
+3. [Lava shader by TheGameMaker](https://threejs.org/examples/webgl_shader_lava.html)
+4. [canvas-sketch-util/shader by mattdesl](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/shader.md)
