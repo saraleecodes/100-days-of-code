@@ -63,3 +63,5 @@
 2. [WebAudio Visualizer by mrdoob](https://github.com/mrdoob/three.js/blob/master/examples/webaudio_visualizer.html)
 3. [Lava shader by TheGameMaker](https://threejs.org/examples/webgl_shader_lava.html)
 4. [canvas-sketch-util/shader by mattdesl](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/shader.md)
+
+### Days 9-18: October 1-11, 2019
